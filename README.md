@@ -1,1 +1,1 @@
-# myLogseq
+这是我的Logseq的安装目录
